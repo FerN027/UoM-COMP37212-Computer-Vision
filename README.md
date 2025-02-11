@@ -9,7 +9,7 @@ Developed a custom Harris Corner Detector, compared with OpenCV’s built-in ORB
 <div align="center">
   <img src="https://github.com/FerN027/UoM-COMP37212-Computer-Vision/blob/main/CW2%20-%20Local%20Feature%20Detection%20and%20Matching%20for%20Object%20Recognition/Screenshot%20cw2.1.png" alt="Alt Text" width="40%">
   <br><br>
-  <img src="https://github.com/FerN027/UoM-COMP37212-Computer-Vision/blob/main/CW2%20-%20Local%20Feature%20Detection%20and%20Matching%20for%20Object%20Recognition/Screenshot%20cw2.2.png" alt="Alt Text" width="80%">
+  <img src="https://github.com/FerN027/UoM-COMP37212-Computer-Vision/blob/main/CW2%20-%20Local%20Feature%20Detection%20and%20Matching%20for%20Object%20Recognition/Screenshot%20cw2.2.png" alt="Alt Text" width="95%">
   <br><br>
   <img src="https://github.com/FerN027/UoM-COMP37212-Computer-Vision/blob/main/CW2%20-%20Local%20Feature%20Detection%20and%20Matching%20for%20Object%20Recognition/Screenshot%20cw2.3.png" alt="Alt Text" width="80%">
   <br><br>
